@@ -1,29 +1,33 @@
 {
   "creatures": [
     {
+      "id": 0,
       "name": "Feuerdrache",
       "type": "Drache",
       "strength": 90,
       "rarity": 5
     },
     {
+      "id": 1,
       "name": "Waldelf",
       "type": "Elf",
       "strength": 60,
       "rarity": 3
     },
     {
+      "id": 2,
       "name": "Wassergeist",
       "type": "Geist",
       "strength": 70,
       "rarity": 4
     },
     {
+      "id": 3,
       "name": "Erdgolem",
       "type": "Golem",
       "strength": 80,
       "rarity": 2
     }
-  ]
+  ],
+  "creatues": 4
 }
-  
